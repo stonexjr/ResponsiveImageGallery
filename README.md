@@ -4,6 +4,8 @@ Want to give your readers fast access to all images in the same album? Then this
 This repository is hosting a revised version of ResponsiveImageGallery that is originally found [here](http://tympanus.net/codrops/2011/09/20/responsive-image-gallery/).
 I added additional feature such that it supports embedding Youtube video.
 
+See the [demo](http://vis.cs.ucdavis.edu/~jrxie/) at Gallery section.
+
 License
 ===============
 Copyright (c) 2014-2015 Jinrong Xie
