@@ -1,10 +1,14 @@
 # ResponsiveImageGallery
+
+<img src="https://github.com/stonexjr/ResponsiveImageGallery/blob/master/demo.png" width="256">
+
 Want to give your readers fast access to all images in the same album? Then this is the best gallery mode for you. With options to slide through the thumbnail carousel or through the photos themselves, this method is not unlike how you view the gallery in some smartphones, making it an intuitive experience. 
 
-This repository is hosting a revised version of ResponsiveImageGallery that is originally found [here](http://tympanus.net/codrops/2011/09/20/responsive-image-gallery/).
-I added additional feature such that it supports embedding Youtube video.
+This repository is hosting a revised version of ResponsiveImageGallery that is originally found [here](http://tympanus.net/codrops/2011/09/20/responsive-image-gallery/).  
 
-See the [demo](http://vis.cs.ucdavis.edu/~jrxie/) at Gallery section.
+I've added additional feature such that it supports embedding Youtube video.
+
+
 
 License
 ===============
